@@ -24,7 +24,20 @@ h1, h2, h3, h4, h5, h6 {
 .heading1{
     font-size: 80px;
 }
+.heading2{
+    font-size: 60px;
+}
 
 .text-yellow{
     color:#ED8E00;
+}
+
+.featured{
+    height: 410px;
+}
+
+.featured img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
